@@ -1,0 +1,82 @@
+.container {
+  max-width: 500px;
+  margin: 5% auto;
+  background-color: #222222;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 8px rgba(0, 254, 246, 0.4); /* softer cyan glow */
+}
+
+.container h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #00fef6;
+  font-size: 24px;
+}
+
+.container label {
+  display: block;
+  color: #ffffff;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.container input,
+.container select,
+.container textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 15px;
+  box-shadow: 2px 2px 4px rgba(0, 254, 246, 0.3); /* softer input shadow */
+}
+
+.container button {
+  margin-top: 15px;
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  background-color: #00fef6;
+  color: #000000;
+  border-radius: 8px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4); /* softer button shadow */
+  transition: background-color 0.5s ease, box-shadow 0.5s ease;
+  cursor: pointer;
+}
+
+.container button:hover {
+  background-color: #b8efe0;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 30px 20px;
+  }
+}
+
+.error {
+  background: #222222;
+  color: #990604;
+  padding: 10px;
+  width: 95%;
+  border-radius: 5px;
+  margin: 20px auto;
+  box-shadow: 1px 1px 3px rgba(255, 0, 0, 0.3);
+}
+
+.success {
+  background: #222222;
+  color: #00fef6;
+  padding: 10px;
+  width: 95%;
+  border-radius: 5px;
+  margin: 20px auto;
+  box-shadow: 1px 1px 3px rgba(0, 254, 246, 0.3);
+}
+
