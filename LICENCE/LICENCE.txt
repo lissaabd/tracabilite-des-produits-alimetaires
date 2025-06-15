@@ -1,4 +1,4 @@
-Droits d’auteur © 2025 Abdous Melissa - Rezzak Ikhlasse
+Droits d’auteur © 2025 Abdous Melissa 
 
 Ce projet a été réalisé dans le cadre du mémoire de fin d’études pour l’obtention de la licence en informatique.
 
@@ -8,5 +8,4 @@ L’ensemble de ce code, ainsi que ses ressources associées, est protégé par 
 Toute copie, modification, distribution ou utilisation — partielle ou totale — à des fins commerciales, académiques ou autres, sans l’accord écrit préalable des auteurs, est strictement interdite.
 Tout usage non autorisé pourra faire l’objet de poursuites conformément à la législation en vigueur.
 
-Pour toute demande, veuillez nous contacter à :
-mabdous.email@gmail.com — shinobella185@gmail.com
+Pour toute demande, veuillez nous contacter à : mabdous.email@gmail.com 
